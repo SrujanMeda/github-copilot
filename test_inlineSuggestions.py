@@ -1,3 +1,4 @@
+'''ctrl+shift+p ->  type copilot -> select copilot generate test '''
 import unittest
 from inlineSuggestions import calculate_average
 
